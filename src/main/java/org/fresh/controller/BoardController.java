@@ -8,7 +8,7 @@ public class BoardController {
 	
 	@RequestMapping("/")
 	public String index() {
-		return "index";
+		return "index"; 
 	}
-
+ 
 }
